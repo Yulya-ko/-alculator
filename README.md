@@ -27,7 +27,7 @@
 <p>To get started with this project, follow these steps:</p>
 <ol>
   <li>Clone the repository:</li>
-  <pre><code>git clone https://github.com/Yulya-ko/-alculator.git</code></pre>
+  <pre><code>git clone https://github.com/Yulya-ko/my-own-project-calculator.git</code></pre>
   <li>Navigate into the project directory:</li>
   <pre><code>cd calculator</code></pre>
   <li>Open the <strong>index.html</strong> file in your browser to start using the calculator.</li>
